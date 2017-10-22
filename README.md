@@ -7,3 +7,4 @@
 Remember that this is an Steam Bot (**That is an console program**) created using **Microsoft Visual Studio** in C# (I´m not really sure if its C# or C++) in the project i use **SteamAppKit2** so that´s why there is some different commands.
 
 ***Can anyone help me?***
+(By the way check the docs before doing anything)
